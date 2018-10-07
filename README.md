@@ -8,4 +8,4 @@ in part two of google maps alternatives series ,and in this  tutorial you will l
 
 DEMO LINK
 =========
-<a href="http://webeasystep.com/demo/delivery-directions.html">DEMO LINK</a>
+http://webeasystep.com/demo/delivery-directions.html
